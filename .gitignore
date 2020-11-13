@@ -1,0 +1,13 @@
+## Editors & IDEs
+# Jetbrains Software files
+.idea
+*.iml
+
+## Dependency Manager Files
+# NPM (NodeJS)
+node_modules
+package-lock.json
+
+## Generated Files
+# Build process
+dist
